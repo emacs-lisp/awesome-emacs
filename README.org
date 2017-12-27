@@ -376,7 +376,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
     - [[https://github.com/m0smith/malabar-mode][malabar-mode]] - A better Java mode for Emacs.
     - [[https://github.com/jdee-emacs/jdee][JDEE]] - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
     - [[https://github.com/mopemope/meghanada-emacs][meghanada-emacs]] - A Better Java Development Environment for Emacs.
-
+	- [[https://github.com/tigersoldier/lsp-javacomp][lsp-javacomp]] - lsp-javacomp is a lsp-mode client that provides Java code-completion and other IDE features for Emacs. It's backed by JavaComp.
 *** Go
 
     - [[https://github.com/dominikh/go-mode.el][Gomode]] - Go mode rewrite for Emacs. Provides Go toolchain integration.
